@@ -6,8 +6,7 @@ subtitle: 'Featuring a new MIMAKI UJF-3042FX for all your LEGO® printing needs'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://photos.app.goo.gl/yTeB5WVR24D1uUF99
+image: '/assets/img/portfolio/printer.jpg'
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
