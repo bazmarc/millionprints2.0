@@ -3,8 +3,7 @@ date: 2020-01-02T23:48:05.000Z
 layout: post
 title: Welcome to the world of millionprints 2.0
 subtitle: 'Featuring a new MIMAKI UJF-3042FX for all your LEGO® printing needs'
-description: >-
-A short story on how millionprints got it's 2.0
+description: A short story on how millionprints got it's 2.0
 image: '/assets/img/portfolio/printer.jpg'
 optimized_image: '/assets/img/portfolio/printer.jpg'
 category: blog
