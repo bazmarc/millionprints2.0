@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: millionprints
+title: millionprints.com
+description: We specialized in Custom Printing on LEGO pieces. We use a Digital UV Printer and are able to produce small runs at really affordable prices. At millionprints.com we love challenges. Need prints for your MOC or a batch of personalised bricks to give out at events? Think millionprints.com!
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: bazmati@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -18,14 +18,14 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: History
+    url: /history
 
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
+facebook_username: https://www.facebook.com/millionprints/
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
