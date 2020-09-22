@@ -6,14 +6,14 @@ subtitle: Have you favorite picture printed on a LEGO brick wall
 description: 
 image: '/assets/img/portfolio/fofi-1.jpg'
 optimized_image: '/assets/img/portfolio/fofi-0.jpg'
-category: Puzzle
+category: Gift
 tags:
   - puzzle
   - photo
   - 2x2 bricks
   - 2x4 bricks
   - CMYK
-  - W
+  - Etsy
  
 ---
 
