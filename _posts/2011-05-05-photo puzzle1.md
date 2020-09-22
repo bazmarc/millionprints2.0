@@ -9,7 +9,10 @@ optimized_image: '/assets/img/portfolio/bwmonti-0.jpg'
 category: Tile
 tags:
   - puzzle
-  - bricks
+  - photo
+  - B&W
+  - 2x2 bricks
+  - 2x4 bricks
   - W
 ---
 Picture was first turned into monochrome and then for printing we first started with 2 lawers of white ink (W) and then one layer of black ink (K) the result is a sharp true black & white finish that looks goergious on a black LEGO brick wall.

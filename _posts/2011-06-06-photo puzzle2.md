@@ -10,7 +10,8 @@ category: Puzzle
 tags:
   - puzzle
   - photo
-  - bricks
+  - 2x2 bricks
+  - 2x4 bricks
   - CMYK
   - W
  
