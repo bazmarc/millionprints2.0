@@ -4,7 +4,7 @@ layout: post
 title: When you want to honour your favorite sets!
 subtitle: Customer wanted to identify his LEGO sets in style.
 description: 
-image: '/assets/img/portfolio/nameplate-1'
+image: '/assets/img/portfolio/nameplate-1.jpg'
 optimized_image: '/assets/img/portfolio/nameplate-0.jpg'
 category: Labeling
 tags:
