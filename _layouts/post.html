@@ -56,7 +56,7 @@
 
         <!-- Add time bar only for pages without pagination -->
         {% if paginator.activated == nil and site.show_time_bar == true %}
-            {% include time-bar.html %}
+           <!-- {% include time-bar.html %} -->
             {% include recommendation.html %}
         {% endif %}
 
@@ -71,7 +71,7 @@
         {% endif %}
 
         {% include subscription.html %}
-        {% include share.html %}
+        <!-- {% include share.html %} -->
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}
