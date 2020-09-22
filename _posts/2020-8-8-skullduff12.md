@@ -4,8 +4,8 @@ layout: post
 title: Demolition Derby minifig style!
 subtitle: Customer asks, can you make me a torso like my team T-Shirt?
 description: 
-image: '/assets/img/portfolio/skullduff-1.jpg'
-optimized_image: '/assets/img/portfolio/skullduff-0.jpg'
+image: '/assets/img/portfolio/skullduff-0jpg'
+optimized_image: '/assets/img/portfolio/skullduff-1.jpg'
 category: Labeling
 tags:
   - custom torso
