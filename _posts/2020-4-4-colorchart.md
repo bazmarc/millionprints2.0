@@ -4,8 +4,8 @@ layout: post
 title: Matching LEGO® Color Chart!
 subtitle: Thanks to the available Illustrator LEGO color palette it is now possible for millionprints to match any of those LEGO colors. 
 description: 
-image: '/assets/img/portfolio/colorchart-1.jpg'
-optimized_image: '/assets/img/portfolio/colorchart-0.jpg'
+image: '/assets/img/portfolio/colorchart-0.jpg'
+optimized_image: '/assets/img/portfolio/colorchart-1.jpg'
 category: Labeling
 tags:
   - nameplate
