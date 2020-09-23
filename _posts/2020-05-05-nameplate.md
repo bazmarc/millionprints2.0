@@ -1,5 +1,5 @@
 ---
-date: 2018-07-22 12:26:40
+date: 2020-9-9
 layout: post
 title: When you want to honour your favorite sets!
 subtitle: Customer wanted to identify his LEGO sets in style.
