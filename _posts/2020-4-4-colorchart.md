@@ -10,14 +10,21 @@ category: Labeling
 tags:
   - nameplate
   - ColorMatch
+  - 1x3 tiles
   - CMYK
   - ideas
 ---
 
-Received lots of request from my local LUG to print names of colours as people were building LEGO color charts. After researching all the different names and color numbers out there I came across a great blog from [Christoph Bartneck](https://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/) where i found a link to download an Illustrator LEGO color palette. This led me to make soe color matching test with the MIMAKI and was very pleased to see the result.
+Received lots of request from my local LUG to print names of colors as people were building LEGO color charts. After researching all the different names and color numbers out there I came across a great blog from [Christoph Bartneck](https://www.bartneck.de/2016/09/09/the-curious-case-of-lego-colors/) where I found a link to download an Illustrator LEGO color palette. 
+
+Also available in Dark Mode ;p
 
 ![other view](/assets/img/portfolio/colorchart-2.jpg){:class="img-responsive"}
-This kit is avaialble upoon [request](https://millionprints.com/contact/)  
+
+This led me to make some color matching test with the MIMAKI and was very pleased to see the result. So I made special color swatch kit! Avaialble upoon [request](https://millionprints.com/contact/)  
+
+
+
 
 
 
