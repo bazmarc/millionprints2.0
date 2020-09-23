@@ -21,9 +21,9 @@ Picture was first turned into monochrome and then for printing we first started 
 Photo puzzle are playable .
 ![other view](/assets/img/portfolio/bwmonti-3.jpg){:class="img-responsive"}
 They have a thin border all around to help with reassembling the puzzle.
-![Other View](/assets/img/portfolio/bwmonti-2.jpg){:class="img-responsive"}
+
 Have fun building special effects.
-![Other view](/assets/img/portfolio/bwmonti-2.jpg){:class="img-responsive"}
+
 
 Click [here](https://millionprints.com/contact/) to request a quote for something like this or head down to our [Etsy](https://www.etsy.com/ca/listing/850964740/custom-photo-puzzle-printed-brick-wall) shop where you can buy this product.
 
