@@ -16,8 +16,11 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Request a quote
+  - title: Quote Request
     url: /contact
+  - title: Etsy Shop
+    url: https://www.etsy.com/ca/shop/MillionPrintsDesign
+  - title: Facebook Page
 
 
 
