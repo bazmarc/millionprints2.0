@@ -6,7 +6,7 @@ subtitle: Have you favorite picture printed on a LEGO brick wall
 description: 
 image: '/assets/img/portfolio/fofi-1.jpg'
 optimized_image: '/assets/img/portfolio/fofi-0.jpg'
-category: Brickwall
+category: brickwall
 tags:
   - puzzle
   - photo

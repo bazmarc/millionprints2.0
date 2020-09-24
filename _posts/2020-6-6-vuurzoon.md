@@ -6,7 +6,7 @@ subtitle: Spot glossy on the house
 description: 
 image: '/assets/img/portfolio/vuurzoon-1.jpg'
 optimized_image: '/assets/img/portfolio/vuurzoon-0.jpg'
-category: Branding
+category: branding
 tags:
   - nameplate
   - 2x4 tiles

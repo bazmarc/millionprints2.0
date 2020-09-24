@@ -6,7 +6,7 @@ subtitle: Customer wanted to identify his LEGO sets in style.
 description: 
 image: '/assets/img/portfolio/Nameplate-1.jpg'
 optimized_image: '/assets/img/portfolio/Nameplate-0.jpg'
-category: Tiles
+category: tiles
 tags:
   - nameplate
   - 1x8 tiles

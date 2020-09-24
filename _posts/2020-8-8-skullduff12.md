@@ -6,7 +6,7 @@ subtitle: Customer asks, can you make me a torso like my team T-Shirt?
 description: 
 image: '/assets/img/portfolio/skullduff-0.jpg'
 optimized_image: '/assets/img/portfolio/skullduff-1.jpg'
-category: Minifig
+category: minifig
 tags:
   - custom torso
   - 2x2 tiles
