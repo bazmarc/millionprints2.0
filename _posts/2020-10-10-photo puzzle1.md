@@ -6,7 +6,7 @@ subtitle: Have you favorite picture printed on a LEGO brick wall
 description: 
 image: '/assets/img/portfolio/bwmonti-1.jpg'
 optimized_image: '/assets/img/portfolio/bwmonti-0.jpg'
-category: Gift
+category: Etsy
 tags:
   - puzzle
   - photo

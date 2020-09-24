@@ -6,7 +6,7 @@ subtitle: Thanks to the available Illustrator LEGO color palette it is now possi
 description: 
 image: '/assets/img/portfolio/colorchart-0.jpg'
 optimized_image: '/assets/img/portfolio/colorchart-1.jpg'
-category: Labeling
+category: Tiles
 tags:
   - nameplate
   - ColorMatch
