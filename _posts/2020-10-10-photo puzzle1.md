@@ -21,7 +21,8 @@ Picture was first turned into monochrome and then for printing we first started 
 Photo puzzle are playable .
 ![other view](/assets/img/portfolio/bwmonti-3.jpg){:class="img-responsive"}
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmillionprints%2Fvideos%2F1126619157734294%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<div class="fb-video" data-href="https://www.facebook.com/millionprints/videos/1126619157734294/" data-show-text="false" data-width=""><blockquote cite="https://www.facebook.com/millionprints/videos/1126619157734294/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/millionprints/videos/1126619157734294/">BrickWall Puzzle are playable</a><p>Time Lapse video</p>Posted by <a href="https://www.facebook.com/millionprints/">millionprints.com</a> </blockquote></div>
+
 
 
 They have a thin border all around to help with reassembling the puzzle.
