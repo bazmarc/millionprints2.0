@@ -1,23 +1,23 @@
 ---
 date: 2020-9-9
 layout: post
-title: When you want to honour your favorite sets!
-subtitle: Customer wanted to identify his LEGO sets in style.
+title: LUG members badge bricks!
+subtitle: Most LEGO User Groups offer their members yearly badges
 description: 
-image: '/assets/img/portfolio/Nameplate-1.jpg'
-optimized_image: '/assets/img/portfolio/Nameplate-0.jpg'
-category: tiles
+image: '/assets/img/portfolio/lug-1.jpg'
+optimized_image: '/assets/img/portfolio/lug-0.jpg'
+category: LUG
 tags:
-  - nameplate
-  - 1x8 tiles
+  - badge
+  - 1x8 bricks
   - CMYK
-  - custom order
+  - White ink
  
 ---
 
-Being proud of your collection is one thing, giving them a unique name plate in another.
-![otherview](/assets/img/portfolio/Nameplate-2.jpg){:class="img-responsive"}
+Québec LEGO User Group [QueLUG] produce these 1x8 bricks for their members.  In this order they prepared some commemorative badges to celebrate number of years of continued support for the LUG 
+![otherview](/assets/img/portfolio/lug-2.jpg){:class="img-responsive"}
 
-That's where millionprints comes in handy
+...As well as some monthly contest award badges. 
 
-Click [here](https://millionprints.com/contact/) to request a quote for something like this.
+Click [here](https://millionprints.com/contact/) to request a quote for badges for your LUG.
