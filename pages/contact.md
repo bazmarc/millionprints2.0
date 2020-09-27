@@ -1,0 +1,41 @@
+---
+layout: page
+title: Contact
+description: Request a quote or ask questions
+permalink: /contact/
+---
+
+
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 0px auto;
+    max-width: 800px;
+  }
+</style>
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted">We will be happy to provide you a quote for your printing project.</h3>
+					 <h4> *le formulaire ci-joint est bilingue, vous pouvez m'écrire en français. Merci </h4>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12">
+		<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIgLWGfjE6Cw_JYYJ2moBw8ZpriIlZaGXcIsBSk48e94Q7-A/viewform?embedded=true" width="100%" height="980" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
+		
+
+            </div>
+        </div>
+
+#### Reach us:
+
+* Via [this link](https://millionprints.com/contact/) for the google form for quote requests.
+* or via millionprints' Facebook [Messenger](https://www.facebook.com/messages/t/millionprints)
+
+
