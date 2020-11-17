@@ -10,7 +10,7 @@ permalink: /affiliate/
 Here is a list of products I use in production or for packaging 
 
 #### Amazon Affiliate 
-<p float="left">
+
 <a
 href="https://www.amazon.ca/gp/product/B07CWQZ1RR/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=ronxqu0a-20&linkId=4dbe7755dbc03869aecffe261a7130cb&language=en_CA" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CWQZ1RR&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=ronxqu0a-20&language=en_CA" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=ronxqu0a-20&language=en_CA&l=li2&o=15&a=B07CWQZ1RR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -18,7 +18,7 @@ href="https://www.amazon.ca/gp/product/B07CWQZ1RR/ref=as_li_ss_il?ie=UTF8&psc=1&
 
 <a href="https://www.amazon.ca/gp/product/B07F1D2MPQ/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=ronxqu0a-20&linkId=dd45c084658be8bf53329c2873d53512&language=en_CA" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07F1D2MPQ&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=ronxqu0a-20&language=en_CA" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=ronxqu0a-20&language=en_CA&l=li2&o=15&a=B07F1D2MPQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-</p>
+
 <a href="https://www.amazon.ca/gp/product/B07JLDGD9P/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=ronxqu0a-20&linkId=537b41c95f26a098b4d2a2724dad2e6c&language=en_CA" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JLDGD9P&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=ronxqu0a-20&language=en_CA" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=ronxqu0a-20&language=en_CA&l=li2&o=15&a=B07JLDGD9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
