@@ -24,9 +24,6 @@ href="https://www.amazon.ca/gp/product/B07CWQZ1RR/ref=as_li_ss_il?ie=UTF8&psc=1&
 
 <a href="https://www.amazon.ca/gp/product/B07F9KG1N3/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=ronxqu0a-20&linkId=624d6b7edb97762fc43f247b2aba5355&language=en_CA" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07F9KG1N3&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=ronxqu0a-20&language=en_CA" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=ronxqu0a-20&language=en_CA&l=li2&o=15&a=B07F9KG1N3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<figure class="video_container">
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ronxqu0a-20&language=en_CA&o=15&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07F9KG1N3&linkId=c2dc5a852c60747e89b03b17a401b3b5"></iframe>
-</figure>
 
 <a href="https://www.amazon.ca/Grafix-9-Inch-12-Inch-Cling-50-Pack/dp/B005M8OOXY/ref=as_li_ss_il?pd_rd_w=B8vNX&pf_rd_p=b7ce226c-345d-4c42-93e2-ba160f613eba&pf_rd_r=FQ2B5GDTEBVASCSAYP14&pd_rd_r=32d6a65c-ada4-4f3e-81c4-8575d3531444&pd_rd_wg=OCZx1&pd_rd_i=B005M8OOXY&ref_=pd_bap_d_rp_1_23_t&linkCode=li2&tag=ronxqu0a-20&linkId=0b24f75423d63738a8d501ff6b2dd6ae&language=en_CA" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005M8OOXY&Format=_SL160_&ID=AsinImage&MarketPlace=CA&ServiceVersion=20070822&WS=1&tag=ronxqu0a-20&language=en_CA" ></a><img src="https://ir-ca.amazon-adsystem.com/e/ir?t=ronxqu0a-20&language=en_CA&l=li2&o=15&a=B005M8OOXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
