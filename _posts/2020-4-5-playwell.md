@@ -29,7 +29,7 @@ First time printing on a dish, came out really nice :D
 ![other view](/assets/img/portfolio/playwell07.jpg){:class="img-responsive"}
 And the first batch of parts printed.
  
-![other view](/assets/img/MP Custom B&W Logo-02.png){:class="img-responsive"}
+
 Click [here](https://millionprints.com/contact/) to discuss your next MOC personalization with millionprints!
 
 ![other view](/assets/img/Tiger_131-03.png){:class="img-responsive"}

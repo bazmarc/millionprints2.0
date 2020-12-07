@@ -31,6 +31,7 @@ Have fun building special effects.
 ![other view](/assets/img/portfolio/bwmonti-5.jpg){:class="img-responsive"}
 
 
+![other view](/assets/img/MP Custom B&W Logo-02.png){:class="img-responsive"}
 Click [here](https://millionprints.com/contact/) to request a quote for something like this or head down to our [Etsy](https://www.etsy.com/ca/listing/850964740/custom-photo-puzzle-printed-brick-wall) shop where you can buy this product.
 
 
