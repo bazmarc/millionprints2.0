@@ -2,7 +2,7 @@
 date: 2020-9-9
 layout: post
 title: When you want to honour your favorite sets!
-subtitle: Customer wanted to identify his LEGO sets in style.
+subtitle: Customer wanted to identify his sets in style.
 description: 
 image: '/assets/img/portfolio/Nameplate-1.jpg'
 optimized_image: '/assets/img/portfolio/Nameplate-0.jpg'

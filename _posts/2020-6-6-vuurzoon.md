@@ -15,7 +15,7 @@ tags:
   - custom order
  
 ---
-Anika is a famous LEGO robotics expert online she goes by the name Vuurzoon. 
+Anika is a ambassador of the ROBOTMAK3RS RLOC, online she goes by the name Vuurzoon. 
 She came to millionprints to have a few tiles made for giveawys. 
 
 ![otherview](/assets/img/portfolio/vuurzoon-2.jpg){:class="img-responsive"}

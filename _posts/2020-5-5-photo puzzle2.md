@@ -2,7 +2,7 @@
 date: 2020-5-5
 layout: post
 title: Perfect birthday gift!
-subtitle: Have you favorite picture printed on a LEGO brick wall
+subtitle: Have you favorite picture printed on a interlocking brick wall
 description: 
 image: '/assets/img/portfolio/fofi-1.jpg'
 optimized_image: '/assets/img/portfolio/fofi-0.jpg'

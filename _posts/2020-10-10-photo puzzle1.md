@@ -2,7 +2,7 @@
 date: 2020-10-10
 layout: post
 title: Love your pet?
-subtitle: Have you favorite picture printed on a LEGO brick wall
+subtitle: Have you favorite picture printed on a interlocking brick wall
 description: 
 image: '/assets/img/portfolio/bwmonti-1.jpg'
 optimized_image: '/assets/img/portfolio/bwmonti-0.jpg'
@@ -16,7 +16,7 @@ tags:
   - Etsy
   - order
 ---
-Picture was first turned into monochrome and then for printing we first started with 2 lawers of white ink (W) and then one layer of black ink (K) the result is a sharp true black & white finish that looks goergious on a black LEGO brick wall.
+Picture was first turned into monochrome and then for printing we first started with 2 lawers of white ink (W) and then one layer of black ink (K) the result is a sharp true black & white finish that looks goergious on a black brick wall.
 ![Other view](/assets/img/portfolio/bwmonti-2.jpg){:class="img-responsive"}
 Photo puzzle are playable .
 ![other view](/assets/img/portfolio/bwmonti-3.jpg){:class="img-responsive"}
