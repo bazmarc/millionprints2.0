@@ -2,5 +2,5 @@
 layout: category
 title: Tiles
 slug: tiles
-description: A category for UV pinted LEGO® tiles.
+description: A category for UV pinted tiles of various sizes.
 ---
