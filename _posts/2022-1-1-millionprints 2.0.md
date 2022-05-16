@@ -3,7 +3,9 @@ date: 2022-1-1
 layout: post
 title: millionprints vous souhaite la bienvenue / Welcome to millionprints 2.0
 subtitle: 'Featuring a new MIMAKI UJF-3042FX for all your MOC printing needs'
-description: Chaque article ci-dessous contient des images détaillées d'impressions réelles. Trouvez l'inspiration ou soyez témoin du genre de travail que millionprints peut faire pour vous ! / Each post below has detailed pictures of actual prints. Find inspiration or witness the kind of work millionprints can do for you!
+description: Chaque article ci-dessous contient des images détaillées d'impressions réelles. Trouvez l'inspiration ou soyez témoin du genre de travail que millionprints peut faire pour vous!
+
+Each post below has detailed pictures of actual prints. Find inspiration or witness the kind of work millionprints can do for you!
 image: '/assets/img/portfolio/printer.jpg'
 optimized_image: '/assets/img/portfolio/printer.jpg'
 category: equipment
