@@ -18,14 +18,14 @@ tags:
 Jonathan comae to millionrpints for a turnkey solution to the final touch of his MOC
 ![other view](/assets/img/portfolio/apo3.png){:class="img-responsive"}
 
-Check out [Jonathan Dagar](https://jonathandagar.com/lego) page for more of their amazing mocs.
+Check out [Jonathan Dagar](https://jonathandagar.com/lego) page for more of his amazing mocs.
 You should also follow them on [instagram @apocryphea](https://www.instagram.com/apocryphea/).
 
 
 ![other view](/assets/img/portfolio/apo4.png){:class="img-responsive"}
-Here are some shots of the print process / jig setup
+Jonathan designed some really amazing UCS style name plates
 ![other view](/assets/img/portfolio/apo5.png){:class="img-responsive"}
-First time printing on a dish, came out really nice :D 
+
 
 
 Click [here](https://millionprints.com/contact/) to discuss your next MOC personalization with millionprints!
