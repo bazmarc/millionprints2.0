@@ -15,20 +15,18 @@ tags:
   - ideas
 ---
 
-Jonathan comae to millionrpints for a turnkey solution to the fibal touch of his MOC
+Jonathan comae to millionrpints for a turnkey solution to the final touch of his MOC
 ![other view](/assets/img/portfolio/apo3.jpg){:class="img-responsive"}
 
 Check out [Jonathan Dagar](https://jonathandagar.com/lego) page for more of their amazing mocs.
 You should also follow them on [instagram @apocryphea](https://www.instagram.com/apocryphea/).
 
 
-![other view](/assets/img/portfolio/playwell01.jpg){:class="img-responsive"}
+![other view](/assets/img/portfolio/apo4.png){:class="img-responsive"}
 Here are some shots of the print process / jig setup
-![other view](/assets/img/portfolio/playwell08.jpg){:class="img-responsive"}
+![other view](/assets/img/portfolio/apo5.png){:class="img-responsive"}
 First time printing on a dish, came out really nice :D 
-![other view](/assets/img/portfolio/playwell07.jpg){:class="img-responsive"}
-And the first batch of parts printed.
- 
+
 
 Click [here](https://millionprints.com/contact/) to discuss your next MOC personalization with millionprints!
 

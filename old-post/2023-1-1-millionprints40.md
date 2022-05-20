@@ -1,5 +1,5 @@
 ---
-date: 2023-01-01
+date: 2023-1-1
 layout: post
 title: millionprints vous souhaite la bienvenue - Welcome to millionprints 2.0
 description: Chaque article ci-dessous contient des images détaillées d'impressions réelles. Trouvez l'inspiration ou soyez témoin du genre de travail que millionprints peut faire pour vous! / Each post below has detailed pictures of actual prints. Find inspiration or witness the kind of work millionprints can do for you!
