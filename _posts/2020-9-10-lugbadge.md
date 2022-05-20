@@ -1,5 +1,5 @@
 ---
-date: 2020-9-9
+date: 2021-2-2
 layout: post
 title: LUG members badge bricks!
 subtitle: Most LEGO User Groups offer their members yearly badges

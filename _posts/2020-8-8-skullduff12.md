@@ -1,5 +1,5 @@
 ---
-date: 2020-8-8
+date: 2020-12-12
 layout: post
 title: Demolition Derby minifig style!
 subtitle: Customer asks, can you make me a torso like my team T-Shirt?

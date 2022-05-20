@@ -1,5 +1,5 @@
 ---
-date: 2020-7-7
+date: 2020-4-4
 layout: post
 title: Matching Color Chart!
 subtitle: Thanks to the available Illustrator LEGO® color palette it is now possible for millionprints to match any of those colors. 
