@@ -2,7 +2,7 @@
 date: 2021-12-12
 layout: post
 title: Possibilities 
-subtitle: Do you ask yourself can this part be printed on? 
+subtitle: Ever ask yourself - Can this part be printed on? 
 description: Explanation of the printer's possibilities
 image: '/assets/img/portfolio/MP-p0.png'
 optimized_image: '/assets/img/portfolio/MP-p0.png'
