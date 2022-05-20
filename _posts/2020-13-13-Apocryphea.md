@@ -4,8 +4,8 @@ layout: post
 title: Collaboration with Apocryphea
 subtitle: Graphic designer and MOC designers   
 description: 
-image: '/assets/img/portfolio/apo1.jpg'
-optimized_image: '/assets/img/portfolio/apo2.jpg'
+image: '/assets/img/portfolio/apo1.JPG'
+optimized_image: '/assets/img/portfolio/apo2.png'
 category: moc
 tags:
   - MOC decoration
@@ -16,7 +16,7 @@ tags:
 ---
 
 Jonathan comae to millionrpints for a turnkey solution to the final touch of his MOC
-![other view](/assets/img/portfolio/apo3.jpg){:class="img-responsive"}
+![other view](/assets/img/portfolio/apo3.png){:class="img-responsive"}
 
 Check out [Jonathan Dagar](https://jonathandagar.com/lego) page for more of their amazing mocs.
 You should also follow them on [instagram @apocryphea](https://www.instagram.com/apocryphea/).
