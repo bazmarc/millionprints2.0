@@ -17,7 +17,7 @@ paginate: true
 
 ## Une courte histoire sur la façon dont millionprints a obtenu son 2.0
 
-En janvier 2020, millionprints a fait l'objet d'une mise à niveau majeure en remplaçant son imprimante UV numérique existante - un clone Brotherjet (Artisjet) bon marché de Chine - par une nouvelle (enfin presque nouvelle) imprimante à plat UV MIMAKI UJF-3042FX, une marque renommée du Japon. Cela a permis à millionprints d'améliorer son jeu en matière d'impressions de qualité sur des briques ou toute autre surface plane dure jusqu'à 5cm dépaisseur. Plongez dans le monde de millionprints 2.0 et admirez de ce portefolio de travaux réalisés sur cette nouvelle imprimante. 
+En janvier 2020, millionprints a fait l'objet d'une mise à niveau majeure en remplaçant son imprimante UV numérique existante - un clone Brotherjet (Artisjet) bon marché de Chine - par une nouvelle (enfin presque nouvelle) imprimante à plat UV MIMAKI UJF-3042FX, une marque renommée du Japon. Cela a permis à millionprints d'améliorer son jeu en matière d'impressions de qualité sur des briques ou toute autre surface plane dure jusqu'à 5cm dépaisseur. Plongez dans le monde de millionprints 2.0 et admirez ce portefolio des travaux réalisés sur cette nouvelle imprimante. 
 
 ### La clientèle de millionprints étant majoritairement internationale, l'anglais a été choisi pour rejoindre le plus de monde, mais sachez que chez millionprints vous pouvez nous rejoindre sans hésitation en français parlé et écrit.  Merci pour votre visite :)
 
