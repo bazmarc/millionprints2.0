@@ -1,26 +1,28 @@
 ---
 layout: page
 title: About
-description: Stunning custom prints for AFOL and MOC designers :) 
+description: Stunning custom UV prints for AFOL and MOC designers :) 
 permalink: /about/
 ---
 
 <img src="/assets/img/uploads/profile.png" alt="millionprints1x8tile-logo" width="600">
 
-We specialize in UV printing on any hard surface up to 5cm thick, and vinyl cling or stickers. Our reputation for quality custom prints on interlocking brick elements is known worldwide. No project is to small or to big. We've been producing quality prints on a variety of brick elements serving the AFOL community as well as the STEM and Eduction related communities since 2018 providing unique items for giveways, to enhance your MOC, for event badges, as part of a trophy or for your own personal "AFOL" branding.
+We specialize in UV printing on any hard surface up to 15cm thick, and vinyl cling or stickers. Our reputation for quality custom prints on interlocking brick elements is known worldwide. No project is to small or to big. We've been producing quality prints on a variety of brick elements serving the AFOL community as well as the STEM and Eduction related communities since 2018 providing unique items for giveways, to enhance your MOC, for event badges, as part of a trophy or for your own personal "AFOL" branding.
 
 #### Equipment:
-* MIMAKI UJF-3042FX UV Digital Flatbed Printer 
+* MIMAKI UJF-3042MKIIe UV Digital Flatbed Printer 
 * Max Print Area: 300mm x 420mm 
-* Max substrate thickness: 50mm 
-* Max curvature: 5mm
+* Max substrate thickness: 150mm 
+* Max curvature: 4mm
+* InkSet: C,M,Y,K,Clear,White 
+* Inktype: LH-100 Gold Certified Low VOC UV hard Ink
 
 #### Value added services:
 * Shipping worldwide at best cost possible 
 * Graphic design services
-* Will spend as much time as needed to get you files just right
+* Will spend as much time as needed to get your files just right
 * Will accept customer ready to print Illustrator Files to save on design cost
-* No minimum quantities
+* No minimum order quantities (MOQ)
 * AFOL owned and operated , understand the needs of the customer
 * Order with confidence 
 * Accept PayPal for international orders USD$  and Interact for local orders CAD$
