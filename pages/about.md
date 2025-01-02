@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/img/uploads/profile.png" alt="millionprints1x8tile-logo" width="600">
 
-We specialize in UV printing on any hard surface up to 15cm thick, and vinyl cling or stickers. Our reputation for quality custom prints on interlocking brick elements is known worldwide. No project is to small or to big. We've been producing quality prints on a variety of brick elements serving the AFOL community as well as the STEM and Eduction related communities since 2018 providing unique items for giveways, to enhance your MOC, for event badges, as part of a trophy or for your own personal "AFOL" branding.
+We specialize in UV printing on any hard surface up to 15cm thick, and vinyl cling or stickers. Our reputation for quality custom prints on interlocking brick elements is known worldwide. No project is to small or to big. We've been producing quality prints on a variety of brick elements serving the AFOL community since 2018 providing unique items for giveways, to enhance your MOC, for event badges, as part of a trophy or for your own personal "AFOL" branding.
 
 #### Equipment:
 * MIMAKI UJF-3042MKIIe UV Digital Flatbed Printer 
